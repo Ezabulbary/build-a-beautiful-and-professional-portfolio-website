@@ -41,14 +41,16 @@ h2{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+    background-size: 5%;
 }
 .Experience{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    background-size: 5%;
 }
 .Experience > h1{
-    margin-left: 30px;
+    margin-left: 100px;
 }
 .experience-item{
     width: 40%;
